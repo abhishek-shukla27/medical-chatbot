@@ -10,6 +10,7 @@ list_of_files=[
     ".env",
     "research/trials.ipynb",
     "app.py",
+    "requirements.txt"
 ]
 
 for filepath in list_of_files:
