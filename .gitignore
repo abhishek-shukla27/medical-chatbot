@@ -1,1 +1,4 @@
+#GROQ_API_KEY
 .env
+.venv/
+venv/
